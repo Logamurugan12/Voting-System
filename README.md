@@ -1,6 +1,4 @@
 # Voting-System
-Here's a **GitHub project description** you can add for your **Simple Voting System** project. This will help explain the project to anyone viewing it on GitHub:
-
 ---
 
 ### **Simple Voting System in Java**
